@@ -4,10 +4,6 @@ import { IoIosArrowDown } from "react-icons/io";
 
 const Header = () => {
   const path = window.location.pathname;
-<<<<<<< HEAD
-=======
-  
->>>>>>> 82b34b81ddee7db1bfa342e8599fd9df3590480c
   return (
     <>
       <header>
